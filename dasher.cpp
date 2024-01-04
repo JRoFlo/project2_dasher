@@ -7,7 +7,8 @@
 *  This project was taken from the GameDev.tv course.
 * Link: github.com/JRoFlo/project2_dasher/
 */
-
+#include <iostream>
+using namespace std;
 
 int main()
 {
